@@ -1,0 +1,19 @@
+@theme {
+  --font-ccp-space-grotesk: 'Space Grotesk', sans-serif;
+}
+
+@utility text-preset-heading-xl {
+  @apply font-ccp-space-grotesk font-bold text-22 leading-0 tracking-[-2.5px];
+}
+
+@utility text-preset-heading-l {
+  @apply font-ccp-space-grotesk font-bold text-5xl leading-[1.66667] tracking-[-1.5px];
+}
+
+@utility text-preset-heading-m {
+  @apply font-ccp-space-grotesk font-bold text-2xl leading-[1.33333];
+}
+
+@utility text-preset-body {
+  @apply font-ccp-space-grotesk font-medium text-lg leading-[1.55556];
+}
