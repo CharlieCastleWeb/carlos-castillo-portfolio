@@ -1,0 +1,9 @@
+@theme {
+  --color-ccp-white: #ffffff;
+
+  --color-ccp-neutral-300: #d9d9d9;
+  --color-ccp-neutral-900: #242424;
+  --color-ccp-neutral-950: #151515;
+
+  --color-ccp-accent-400: #ffcc00;
+}
