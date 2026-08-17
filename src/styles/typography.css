@@ -3,7 +3,7 @@
 }
 
 @utility text-preset-heading-xl {
-  @apply font-ccp-space-grotesk font-bold text-22 leading-0 tracking-[-2.5px];
+  @apply font-ccp-space-grotesk font-bold text-[3rem] leading-0 tracking-[-2.5px];
 }
 
 @utility text-preset-heading-l {
